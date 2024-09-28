@@ -1,6 +1,6 @@
 Hello!  
-JS / TS / Rust Developer   
+JS / TS / Rust / Go Developer   
 Back-end  
 full-stack  
-looking for job  
+
 joowon.  
