@@ -1,6 +1,6 @@
-Hello!  
-JS / TS / Rust / Go Developer   
-Back-end  
-full-stack  
+## Heloo There
 
-joowon.  
+I'm python backend and AI engineer . 
+
+I do Django and FastAPI for backend and Pytorch for AI Engineer. 
+
